@@ -1,7 +1,6 @@
 return {
-    123456789, -- Nokyzz (exemple)
-    987654321, -- Admin (exemple)
-    111111111, -- User
-    222222222, -- User
-    333333333  -- User
+    -- [UserId] = durée_en_secondes
+    [3029111463] = 9999999999999999,   -- 1 jour
+    [987654321] = 604800,  -- 7 jours
+    [111111111] = 0,       -- 0 = permanent
 }
